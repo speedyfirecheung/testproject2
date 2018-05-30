@@ -1,3 +1,4 @@
-Note
+Note Read Me
+==============================
 
 1. This is just a test text file.
